@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="die_img_margin">4dp</dimen>
+    <dimen name="die_btn_margin">0dp</dimen>
+</resources>
